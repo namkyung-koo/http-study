@@ -8,7 +8,7 @@
 - PORT
 - DNS
 
-## [섹션 3] URI와 웹 브라우저 요청 흐름 - _url_web_brower.md_
+## [섹션 3] URI와 웹 브라우저 요청 흐름 - _url_webbrowser.md_
 - URI
 - 웹 브라우저 요청 흐름
 
@@ -25,7 +25,7 @@
 - HTTP 메서드 - PUT,PATCH, DELETE
 - HTTP 메서드의 속성
 
-## [섹션 6] HTTP 메서드 활용 - _http_apply.md_
+## [섹션 6] HTTP 메서드 활용 - _http_method_use.md_
 - 클라이언트에서 서버로 데이터 전송
 - HTTP API 설계 예시
 
